@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SonOfBrodin
+- 👀 I’m interested in learning different languages
+- 🌱 I’m currently learning Python.
+- ⚡ Fun fact: I'm studying to become an Automation- and robotengineer, with a big interest of robotics.
